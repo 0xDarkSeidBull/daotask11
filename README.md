@@ -1,0 +1,11 @@
+# TASK-11  RBNT Token Utility and Ecosystem Visibility Report
+<img width="1434" height="1024" alt="dao-logo-on-dark" src="https://github.com/user-attachments/assets/a1bf671a-53fa-42ca-bb86-1ffc26176e07" />
+
+Submitted deliverable for the Redbelly DAO Task Board. Four parts, every figure traced to a primary source  official whitepaper, live on-chain data, or the platform's own docs.
+
+1. [Tokenomics Report (PDF/DOCX)](./part1-tokenomics-report/)  whitepaper-cited, 12 pages. Covers all 5 real token uses, full allocation table, vesting timeline, and a 4-way competitor comparison.
+2. [DeFiLlama Submission Kit](./part2-defillama-kit/)  TVL adapter for reddex, live-verified against DeFiLlama's own numbers (~1% margin, well inside the 5% accuracy requirement).
+3. [RWA.xyz Submission Kit](./part3-rwa-xyz-kit/)  onboarding checklist, pre-filled network profile, asset-registry data in RWA.xyz's own schema format, and platform-introduction list for RWA.xyz's manual partnership process. Overall application timeline (4 to 8 weeks, per RWA.xyz's own FAQ) is documented in `ONBOARDING-CHECKLIST.md`.
+4. [Explainer Article](./part4-explainer/)  "How Network Adoption Drives RBNT Value", under 500 words, written for Discord/social.
+
+Reviewer note: each part's own file explains its verification method and any caveats found along the way (e.g. the domain bug fixed in Part 2, and the DeFiLlama-vs-RWA.xyz absence distinction in Part 3).
